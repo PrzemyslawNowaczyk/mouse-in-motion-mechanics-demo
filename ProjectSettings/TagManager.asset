@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CharacterTriggers
+  - Character
+  - CharacterEffector
+  - SlantedEnvironment
+  - Environment
+  - Pickup
+  - Enemy
+  - NoncollidingEnvironment
+  - EnvironmentPhysicObject
+  - SlantedEnvironmentPhysicObject
+  - PhysicsEffector
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: character_trace
+    uniqueID: 2724432471
+    locked: 0
+  - name: character
+    uniqueID: 199828245
+    locked: 0

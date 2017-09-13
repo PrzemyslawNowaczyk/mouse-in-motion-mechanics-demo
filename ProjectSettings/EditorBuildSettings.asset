@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/demo_scenes/movement.unity
+    guid: 2640e2463fefa0147973174103efdb14
+  - enabled: 1
+    path: Assets/Scenes/demo_scenes/bumpers.unity
+    guid: 8325060091b78ce4db04c4c91cb22a93
+  - enabled: 1
+    path: Assets/Scenes/demo_scenes/bunny hopping.unity
+    guid: dbbf1245bb88a7340b9b1518e136d52a
+  - enabled: 1
+    path: Assets/Scenes/demo_scenes/enemies.unity
+    guid: 6cdf3768fcc70c44cbbca8ea8bdeb121
+  - enabled: 1
+    path: Assets/Scenes/demo_scenes/energy transfer.unity
+    guid: ccd8a652ecdf96c4ba8468a661c25c14
+  - enabled: 1
+    path: Assets/Scenes/demo_scenes/slanted.unity
+    guid: 2d8ad9470e7c30647a1c3b839c1320b8
+  - enabled: 1
+    path: Assets/Scenes/demo_scenes/dialogues.unity
+    guid: 2761ec87de05a6740b16846416c5474f
+  - enabled: 1
+    path: Assets/Scenes/demo_scenes/toys.unity
+    guid: 3e70c09bbefc07f4ab40f49d6b39f056
